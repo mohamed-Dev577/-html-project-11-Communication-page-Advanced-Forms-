@@ -1,5 +1,5 @@
 ## اسم المشروع 
-project_11/نموذج تواصل (Forms متقدم)
+project_11/Communication-page(Advanced Forms)
 
 ## وصف المشروع 
 - هذا هو المشروع الحادي عشر لي في تعلم لغة HTML 
@@ -30,7 +30,7 @@ project_11/نموذج تواصل (Forms متقدم)
 قم بتشغيل ملف index.html في اي متصفح 
 
 ## هيكل المشروع 
-project_10/نموذج تواصل (Forms متقدم) 
+project_11/Communication-page(Advanced Forms)
 - index.html_____|
 - README.md______|
 
